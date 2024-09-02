@@ -1,3 +1,4 @@
+![snake gif](https://github.com/gustaom/gustaom/blob/output/github-contribution-grid-snake.svg)
 <img src="https://i.postimg.cc/dtdGCJKv/Programming-amico.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 <p align="left"> 
   Olá, me chamo Gustavo e tenho 22 anos. Sou estudante de Engenharia de Software e atualmente <strong>Programador back-end Python</strong>.<br>
